@@ -1,1 +1,3 @@
 # My-Python-Projects
+
+This repository consists of python projects that I develop throught my work. This will feature a varity of projects whether a game or bot or what not...
