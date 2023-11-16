@@ -1,6 +1,6 @@
 """
     - Inputs are taken in the form of angles.
-    - added bullshit like  * precision (i.e the gap between pipes)
+    - added features like  * precision (i.e the gap between pipes)
                            * speed 
                            * upper and lower limits for the pipe height
     - Removed ground     
