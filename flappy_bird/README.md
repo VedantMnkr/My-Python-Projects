@@ -1,4 +1,5 @@
 CC: CODING WITH RUSS on youtube
+##### Note: You can find the well organized and final version in [Flappy bird v0.6](https://github.com/VedantMnkr/My-Python-Projects/tree/main/flappy_bird/flappy_copy_v0.6)
 ```text
 I developed this one too as part of my internship project and serving as graphical medium for out CV counterpart.
 
